@@ -1,4 +1,4 @@
-#  Git-flow (계속 추가 예정..)
+#  Git-flow
 
 > 1. Git-flow란
 >> Vincent Driessen 이 제시한 가장 널리 알려진 프로젝트 git 브랜치 전략  
@@ -24,3 +24,4 @@
 >> Vincent Driessen 블로그 : https://nvie.com/posts/a-successful-git-branching-model/  
 >> donggeun,Bang 블로그 - Git 브랜치 전략의 필요 : https://blog.lulab.net/programming-tools/the-need-for-a-git-branch-strategy/  
 >> 휴몬랩 기술 블로그 - git으로 협업하기! : https://devlog-h.tistory.com/6  
+>> 계속 추가 예정..
